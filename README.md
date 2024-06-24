@@ -1,0 +1,1 @@
+# design_of_differentiaamplifier_with_activeload
